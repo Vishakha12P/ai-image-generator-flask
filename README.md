@@ -1,4 +1,4 @@
-**AI Image Generator using Flask and OpenAI**
+#AI Image Generator using Flask and OpenAI
 
 This project is a web-based **AI Image Generator** built using **Python Flask** and **OpenAI’s DALL·E model**.  
 Users can enter a textual description, and the application generates a corresponding image using artificial intelligence.
